@@ -102,9 +102,10 @@ nav a {
 }
 
 /* Main section styles */
-main section{
+main section {
     margin-top: 130px;
 }
+
 main {
     max-width: 1140px;
     margin: 0 auto;
@@ -150,4 +151,11 @@ main {
 
 .skill-description {
     color: #757575
+}
+
+/* resume column style */
+.resume-column-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
 }
